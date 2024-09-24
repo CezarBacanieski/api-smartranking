@@ -57,7 +57,7 @@ export class JogadoresService {
       email,
       ranking: 'A',
       posicaoRanking: 1,
-      urlFoto: 'https://github.com/cezarbacanieski.png',
+      urlFotoJogador: 'https://github.com/cezarbacanieski.png',
     };
     this.logger.log(`criaJogadorDto: ${JSON.stringify(jogador)}`);
 
